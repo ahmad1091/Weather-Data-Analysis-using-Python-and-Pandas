@@ -18,7 +18,7 @@ Scripts for creating visualizations of weather data are stored in the `visualiza
 
 To run this code, you will need to have Python 3.x installed, along with the packages listed in `requirements.txt`. To install the required packages, run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Once the packages are installed, you can run the various scripts and notebooks in the repository. Refer to the README files in each subdirectory for more specific instructions.
 
